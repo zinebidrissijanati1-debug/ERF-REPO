@@ -25,4 +25,4 @@ The evolutionary algorithm in the original experiments used NumPy's default (uns
 Released under the MIT License. 
 ## Citation
 
-If you use this code, please cite:
+If you use this code, please cite: https://doi.org/10.5281/zenodo.21133795
